@@ -6,7 +6,7 @@ import time
 import eventlet
 import DiscordHooks
 
-webhook_url = "https://discordapp.com/api/webhooks/502380587361763328/_h_rA9UWWtSUnX-A5BFiNC-8aP3WT3FdN0EO8vikFmDrTKkdDZbLelrRPFCPRkmpJ5AD"
+webhook_url = "___"
 news_url = "https://www.ru.playblackdesert.com/News/Notice?boardType=0"
 boards = list()
 
